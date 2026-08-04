@@ -38,3 +38,7 @@
 #### 1.6 Configure Command Line Warning Banners
 
 [1.6 Configure Command Line Warning Banners](/docs/debian/1/1.6.md)
+
+#### 1.7 Configure GNOME Display Manager
+
+[1.7 Configure GNOME Display Manager](/docs/debian/1/1.7.md)
