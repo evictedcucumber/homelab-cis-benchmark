@@ -1,2 +1,31 @@
-# homelab-cis-benchmark
-The status of how compliant my homelab is with the CIS benchmarks.
+# Homelab CIS Benchmark Compliance
+
+|       Status       |       Description       |
+| :----------------: | :---------------------: |
+| :white_check_mark: |       Implemented       |
+|        :x:         |      Unimplemented      |
+|   :black_circle:   | Ignored/Won't Implement |
+
+## Proxmox
+
+## Debian 13
+
+### 1. Initial Setup
+
+#### 1.1 Filesystem
+
+##### 1.1.1 Configure Filesystem Kernel Modules
+
+| Section  | Level |     Status     |
+| :------: | :---: | :------------: |
+| 1.1.1.1  |   1   |      :x:       |
+| 1.1.1.2  |   1   |      :x:       |
+| 1.1.1.3  |   1   |      :x:       |
+| 1.1.1.4  |   1   |      :x:       |
+| 1.1.1.5  |   1   |      :x:       |
+| 1.1.1.6  |   2   | :black_circle: |
+| 1.1.1.7  |   2   | :black_circle: |
+| 1.1.1.8  |   2   | :black_circle: |
+| 1.1.1.9  |   1   |      :x:       |
+| 1.1.1.10 |   1   |      :x:       |
+| 1.1.1.11 |   1   |      :x:       |
