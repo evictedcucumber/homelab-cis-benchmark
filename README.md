@@ -33,3 +33,7 @@
 #### 1.5 Configure Additional Process Hardening
 
 [1.5 Configure Additional Process Hardening](/docs/debian/1/1.5.md)
+
+#### 1.6 Configure Command Line Warning Banners
+
+[1.6 Configure Command Line Warning Banners](/docs/debian/1/1.6.md)
