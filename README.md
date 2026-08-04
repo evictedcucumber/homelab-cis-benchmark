@@ -21,3 +21,7 @@
 
 - [1.2.1 Configure Package Repositories](/docs/debian/1/1.2/1.2.1.md)
 - [1.2.2 Configure Package Updates](/docs/debian/1/1.2/1.2.2.md)
+
+#### 1.3 Mandatory Access Control
+
+- [1.3.1 Configure AppArmor](/docs/debian/1/1.3/1.3.1.md)
