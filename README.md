@@ -25,3 +25,7 @@
 #### 1.3 Mandatory Access Control
 
 - [1.3.1 Configure AppArmor](/docs/debian/1/1.3/1.3.1.md)
+
+#### 1.4 Configure Bootloader
+
+[1.4 Configure Bootloader](/docs/debian/1/1.4.md)
