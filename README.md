@@ -4,7 +4,7 @@
 | :----------------: | :---------------------: |
 | :white_check_mark: |       Implemented       |
 |        :x:         |      Unimplemented      |
-|   :black_circle:   | Ignored/Won't Implement |
+|   :red_circle:   | Ignored/Won't Implement |
 
 ## Proxmox
 
