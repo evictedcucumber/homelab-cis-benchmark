@@ -29,3 +29,7 @@
 #### 1.4 Configure Bootloader
 
 [1.4 Configure Bootloader](/docs/debian/1/1.4.md)
+
+#### 1.5 Configure Additional Process Hardening
+
+[1.5 Configure Additional Process Hardening](/docs/debian/1/1.5.md)
