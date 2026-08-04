@@ -14,4 +14,5 @@
 
 #### 1.1 Filesystem
 
-- [1.1.1 Configure Filesystem Kernel Modules](/docs/debian/1.1.1.md)
+- [1.1.1 Configure Filesystem Kernel Modules](/docs/debian/1/1.1/1.1.1.md)
+- [1.1.2 Configure Filesystem Partitions](/docs/debian/1/1.1/1.1.2.md)
