@@ -20,3 +20,4 @@
 #### 1.2 Package Management
 
 - [1.2.1 Configure Package Repositories](/docs/debian/1/1.2/1.2.1.md)
+- [1.2.2 Configure Package Updates](/docs/debian/1/1.2/1.2.2.md)
