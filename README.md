@@ -2,9 +2,9 @@
 
 |       Status       |       Description       |
 | :----------------: | :---------------------: |
-| :white_check_mark: |       Implemented       |
+| :heavy_check_mark: |       Implemented       |
 |        :x:         |      Unimplemented      |
-|   :red_circle:   | Ignored/Won't Implement |
+|    :red_circle:    | Ignored/Won't Implement |
 
 ## Proxmox
 
