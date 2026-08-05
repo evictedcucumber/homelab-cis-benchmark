@@ -58,3 +58,7 @@
 - [2.3.1 Ensure Time Synchronization is in Use](/docs/debian/2/2.3/2.3.1.md)
 - [2.3.2 Configure systemd-timesyncd](/docs/debian/2/2.3/2.3.2.md)
 - [2.3.3 Configure chrony](/docs/debian/2/2.3/2.3.3.md)
+
+#### 2.4 Job Schedulers
+
+- [2.4.1 Configure cron](/docs/debian/2/2.4/2.4.1.md)
