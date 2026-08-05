@@ -69,3 +69,7 @@
 #### 3.1 Configure Network Devices
 
 [3.1 Configure Network Devices](/docs/debian/3/3.1.md)
+
+#### 3.2 Configure Network Kernel Modules
+
+[3.2 Configure Network Kernel Modules](/docs/debian/3/3.2.md)
