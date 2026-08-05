@@ -77,3 +77,4 @@
 #### 3.3 Configure Network Kernel Parameters
 
 - [3.3.1 Configure IPv4 Parameters](/docs/debian/3/3.3/3.3.1.md)
+- [3.3.2 Configure IPv6 Parameters](/docs/debian/3/3.3/3.3.2.md)
