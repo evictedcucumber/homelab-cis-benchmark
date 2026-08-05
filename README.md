@@ -48,3 +48,7 @@
 #### 2.1 Configure Server Services
 
 [2.1 Configure Server Services](/docs/debian/2/2.1.md)
+
+#### 2.2 Configure Client Services
+
+[2.2 Configure Client Services](/docs/debian/2/2.2.md)
