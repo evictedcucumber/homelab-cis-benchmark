@@ -73,3 +73,7 @@
 #### 3.2 Configure Network Kernel Modules
 
 [3.2 Configure Network Kernel Modules](/docs/debian/3/3.2.md)
+
+#### 3.3 Configure Network Kernel Parameters
+
+- [3.3.1 Configure IPv4 Parameters](/docs/debian/3/3.3/3.3.1.md)
