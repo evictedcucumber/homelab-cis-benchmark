@@ -42,3 +42,9 @@
 #### 1.7 Configure GNOME Display Manager
 
 [1.7 Configure GNOME Display Manager](/docs/debian/1/1.7.md)
+
+### 2. Services
+
+#### 2.1 Configure Server Services
+
+[2.1 Configure Server Services](/docs/debian/2/2.1.md)
