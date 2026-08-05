@@ -52,3 +52,7 @@
 #### 2.2 Configure Client Services
 
 [2.2 Configure Client Services](/docs/debian/2/2.2.md)
+
+#### 2.3 Configure Time Synchronization
+
+- [2.3.1 Ensure Time Synchronization is in Use](/docs/debian/2/2.3/2.3.1.md)
