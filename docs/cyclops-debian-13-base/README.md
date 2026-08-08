@@ -105,3 +105,4 @@
 ## 6.2 System Auditing
 
 - [6.2.1 Configure auditd Service](/docs/cyclops-debian-13-base/6/6.2/6.2.1.md)
+- [6.2.2 Configure Data Retention](/docs/cyclops-debian-13-base/6/6.2/6.2.2.md)
