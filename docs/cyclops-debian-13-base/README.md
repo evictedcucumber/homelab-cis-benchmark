@@ -92,3 +92,4 @@
 
 - [5.4.1 Configure Shadow Password Suite Parameters](/docs/cyclops-debian-13-base/5/5.4/5.4.1.md)
 - [5.4.2 Configure Root and System Accounts and Environment](/docs/cyclops-debian-13-base/5/5.4/5.4.2.md)
+- [5.4.3 Configure User Default Environment](/docs/cyclops-debian-13-base/5/5.4/5.4.3.md)
