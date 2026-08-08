@@ -86,3 +86,4 @@
 
 - [Configure PAM Software Modules](/docs/cyclops-debian-13-base/5/5.3/5.3.1.md)
 - [5.3.2 Configure pam-auth-update Profiles](/docs/cyclops-debian-13-base/5/5.3/5.3.2.md)
+- [5.3.3 Configure PAM Arguments](/docs/cyclops-debian-13-base/5/5.3/5.3.3.md)
