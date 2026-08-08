@@ -107,3 +107,4 @@
 - [6.2.1 Configure auditd Service](/docs/cyclops-debian-13-base/6/6.2/6.2.1.md)
 - [6.2.2 Configure Data Retention](/docs/cyclops-debian-13-base/6/6.2/6.2.2.md)
 - [6.2.3 Configure auditd Rules](/docs/cyclops-debian-13-base/6/6.2/6.2.3.md)
+- [6.2.4 Configure auditd File Access](/docs/cyclops-debian-13-base/6/6.2/6.2.4.md)
