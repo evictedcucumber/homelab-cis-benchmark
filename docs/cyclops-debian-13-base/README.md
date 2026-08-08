@@ -112,3 +112,9 @@
 ## 6.3 Configure Integiry Checking
 
 [6.3 Configure Integiry Checking](/docs/cyclops-debian-13-base/6/6.3.md)
+
+# 7 System Mainenance
+
+## 7.1 Configure System File and Directory Access
+
+[7.1 Configure System File and Directory Access](/docs/cyclops-debian-13-base/7/7.1.md)
