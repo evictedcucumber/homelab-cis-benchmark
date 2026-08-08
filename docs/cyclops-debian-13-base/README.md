@@ -87,3 +87,7 @@
 - [Configure PAM Software Modules](/docs/cyclops-debian-13-base/5/5.3/5.3.1.md)
 - [5.3.2 Configure pam-auth-update Profiles](/docs/cyclops-debian-13-base/5/5.3/5.3.2.md)
 - [5.3.3 Configure PAM Arguments](/docs/cyclops-debian-13-base/5/5.3/5.3.3.md)
+
+## 5.4 User Accounts and Environment
+
+- [5.4.1 Configure Shadow Password Suite Parameters](/docs/cyclops-debian-13-base/5/5.4/5.4.1.md)
