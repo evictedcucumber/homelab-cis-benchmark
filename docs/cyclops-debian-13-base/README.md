@@ -99,3 +99,4 @@
 ## 6.1 System Logging
 
 - [6.1.1 Configure journald](/docs/cyclops-debian-13-base/6/6.1/6.1.1.md)
+- [6.1.2 Configure rsyslog](/docs/cyclops-debian-13-base/6/6.1/6.1.2.md)
