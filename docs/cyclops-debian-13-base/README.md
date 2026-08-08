@@ -81,3 +81,7 @@
 ## 5.2 Configure Privillege Escalation
 
 [5.2 Configure Privillege Escalation](/docs/cyclops-debian-13-base/5/5.2.md)
+
+## 5.3 Pluggable Authentication Modules
+
+- [Configure PAM Software Modules](/docs/cyclops-debian-13-base/5/5.3/5.3.1.md)
