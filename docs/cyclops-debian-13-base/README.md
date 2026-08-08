@@ -101,3 +101,7 @@
 - [6.1.1 Configure journald](/docs/cyclops-debian-13-base/6/6.1/6.1.1.md)
 - [6.1.2 Configure rsyslog](/docs/cyclops-debian-13-base/6/6.1/6.1.2.md)
 - [6.1.3 Configure Logfiles](/docs/cyclops-debian-13-base/6/6.1/6.1.3.md)
+
+## 6.2 System Auditing
+
+- [6.2.1 Configure auditd Service](/docs/cyclops-debian-13-base/6/6.2/6.2.1.md)
