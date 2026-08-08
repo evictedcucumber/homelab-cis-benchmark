@@ -77,3 +77,7 @@
 ## 5.1 Configure SSH Server
 
 [5.1 Configure SSH Server](/docs/cyclops-debian-13-base/5/5.1.md)
+
+## 5.2 Configure Privillege Escalation
+
+[5.2 Configure Privillege Escalation](/docs/cyclops-debian-13-base/5/5.2.md)
