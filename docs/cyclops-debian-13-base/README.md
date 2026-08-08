@@ -118,3 +118,7 @@
 ## 7.1 Configure System File and Directory Access
 
 [7.1 Configure System File and Directory Access](/docs/cyclops-debian-13-base/7/7.1.md)
+
+## 7.2 Local User and Group Settings
+
+[7.2 Local User and Group Settings](/docs/cyclops-debian-13-base/7/7.2.md)
