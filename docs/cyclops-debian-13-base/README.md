@@ -78,7 +78,7 @@
 
 [5.1 Configure SSH Server](/docs/cyclops-debian-13-base/5/5.1.md)
 
-## 5.2 Configure Privillege Escalation
+## 5.2 Configure Privilege Escalation
 
 [5.2 Configure Privillege Escalation](/docs/cyclops-debian-13-base/5/5.2.md)
 
@@ -109,11 +109,11 @@
 - [6.2.3 Configure auditd Rules](/docs/cyclops-debian-13-base/6/6.2/6.2.3.md)
 - [6.2.4 Configure auditd File Access](/docs/cyclops-debian-13-base/6/6.2/6.2.4.md)
 
-## 6.3 Configure Integiry Checking
+## 6.3 Configure Integrity Checking
 
 [6.3 Configure Integiry Checking](/docs/cyclops-debian-13-base/6/6.3.md)
 
-# 7 System Mainenance
+# 7 System Maintenance
 
 ## 7.1 Configure System File and Directory Access
 
