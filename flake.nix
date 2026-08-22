@@ -1,6 +1,6 @@
 {
   description = "Development environment for my Homelab CIS Benchmark compliance documentation";
-  inputs.nixpkgs.url = "github:NixOS/nixpkgs/master";
+  inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   outputs = {nixpkgs, ...}: let
     system = "x86_64-linux";
     pkgs = import nixpkgs {
